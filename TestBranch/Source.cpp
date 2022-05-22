@@ -1,7 +1,10 @@
 #include<iostream>
 using namespace std;
 
-
+struct animal {
+	int age;
+	int age3;
+};
 
 struct Human {
 	int age;
