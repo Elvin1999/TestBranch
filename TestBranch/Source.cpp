@@ -13,5 +13,5 @@ void main() {
 	cout << "Hi" << endl;
 	cout << "I am from azerbaijan";
 	int a = 12;
-
+	cout << "+__+_=++++" << endl;
 }
