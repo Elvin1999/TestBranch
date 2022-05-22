@@ -2,8 +2,12 @@
 using namespace std;
 
 
-void main() {
 
+struct Human {
+	int age;
+};
+void main() {
+	cout << "Hi" << endl;
 
 
 }
