@@ -12,5 +12,6 @@ struct Human {
 void main() {
 	cout << "Hi" << endl;
 	cout << "I am from azerbaijan";
+	int a = 12;
 
 }
